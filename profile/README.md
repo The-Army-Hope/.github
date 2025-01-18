@@ -3,8 +3,7 @@ _The Army_ is a team for our school project affiliated with the MIT university c
 Our team project aims to build a robotic remote controlled arm based on the amazing open source [Arduino](https://www.arduino.cc/) and its boards!
 
 ## Documentation
-Everything about the project's developing is documented in this GitHub organization.<br>
-_Website coming soon!_
+Everything about the project's developing is documented in this GitHub organization and in [our official documentation website](https://the-army-hope.github.io/)!
 
 ## Team and contacts
  - [NexIsDumb](https://github.com/NexIsDumb) works on the connection between the arduinos, website, documentation, GitHub organization stuff, helps the other members with coding optimizations and more;
