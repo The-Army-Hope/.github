@@ -8,6 +8,6 @@ Everything about the project's developing is documented in this GitHub organizat
 ## Team and contacts
  - [NexIsDumb](https://github.com/NexIsDumb) works on the connection between the arduinos, website, documentation, GitHub organization stuff, helps the other members with coding optimizations and more;
  - [Matte549](https://github.com/Matte549) works on the internal base code for the devices;
- - Turkiztron works on internal base code for the devices as well and 3D models of the devices and their printing;
+ - [Turkiztron](https://github.com/turkiz-jpg) works on internal base code for the devices as well and 3D models of the devices and their printing;
  - [Tindaniel706](https://github.com/Tindaniel706) works on 3D models of the devices and a small presentation mobile app;
  - Leggend works on the aspect side of the project while also helping the others.
